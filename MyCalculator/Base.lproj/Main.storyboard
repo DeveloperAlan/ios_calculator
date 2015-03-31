@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kOr-Pq-8nv">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kOr-Pq-8nv">
                                 <rect key="frame" x="283" y="388" width="92" height="92"/>
                                 <color key="backgroundColor" red="1" green="0.52354733899999994" blue="0.071061939650000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -42,7 +42,7 @@
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xbx-xM-fUv">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xbx-xM-fUv">
                                 <rect key="frame" x="283" y="482" width="92" height="92"/>
                                 <color key="backgroundColor" red="1" green="0.52354733899999994" blue="0.071061939650000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -56,7 +56,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oeX-EF-POT">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oeX-EF-POT">
                                 <rect key="frame" x="283" y="576" width="92" height="92"/>
                                 <color key="backgroundColor" red="1" green="0.52354733899999994" blue="0.071061939650000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -70,7 +70,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G0s-eR-LsH">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G0s-eR-LsH">
                                 <rect key="frame" x="188" y="388" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -85,7 +85,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y1a-Ux-khH">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y1a-Ux-khH">
                                 <rect key="frame" x="94" y="388" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -100,7 +100,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Zu-E1-Jqp">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Zu-E1-Jqp">
                                 <rect key="frame" x="0.0" y="388" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -115,7 +115,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RiO-Ii-Sq2">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RiO-Ii-Sq2">
                                 <rect key="frame" x="188" y="482" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -130,7 +130,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SDf-a7-SlZ">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SDf-a7-SlZ">
                                 <rect key="frame" x="94" y="482" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -145,7 +145,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QKs-ak-tYT">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QKs-ak-tYT">
                                 <rect key="frame" x="0.0" y="482" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -160,7 +160,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gqa-q0-58D">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gqa-q0-58D">
                                 <rect key="frame" x="188" y="576" width="92" height="92"/>
                                 <color key="backgroundColor" red="1" green="0.52354733899999994" blue="0.071061939650000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -175,7 +175,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xrg-gz-rNO">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xrg-gz-rNO">
                                 <rect key="frame" x="94" y="576" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -190,7 +190,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8uQ-dK-4Qw">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8uQ-dK-4Qw">
                                 <rect key="frame" x="0.0" y="576" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -205,7 +205,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Swipe to clear" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VE0-2a-nEx">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Swipe to clear" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VE0-2a-nEx">
                                 <rect key="frame" x="133" y="-1" width="109.5" height="20.5"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
@@ -225,7 +225,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9jg-M0-e3C">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9jg-M0-e3C">
                                 <rect key="frame" x="188" y="294" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326441784381" green="0.81681960978835977" blue="0.80629176263047764" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -240,7 +240,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D9Q-N9-f6F">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D9Q-N9-f6F">
                                 <rect key="frame" x="0.0" y="294" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -254,7 +254,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oqk-pk-a71">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oqk-pk-a71">
                                 <rect key="frame" x="94" y="294" width="92" height="92"/>
                                 <color key="backgroundColor" red="0.80467326439999998" green="0.81681960980000001" blue="0.80629176260000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
